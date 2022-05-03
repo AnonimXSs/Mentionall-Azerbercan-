@@ -17,8 +17,6 @@ startmesaj = os.environ.get("startmesaj")
 komutlar = os.environ.get("komutlar")
 qrupstart = os.environ.get("qrupstart")
 support = os.environ.get("support")
-sahib = os.environ.get("sahib")
+sahib = os.environ.get("sahib") f'https://t.me/TheMrMuazzam
 #
-# mutsuz_panda 
-# mutsuz_panda 
-# mutsuz_panda 
+
