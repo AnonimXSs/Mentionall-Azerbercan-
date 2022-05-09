@@ -17,6 +17,6 @@ startmesaj = os.environ.get("startmesaj")
 komutlar = os.environ.get("komutlar")
 qrupstart = os.environ.get("qrupstart")
 support = os.environ.get("support")
-sahib = os.environ.get("sahib") f'https://t.me/TheMrMuazzam
+sahib = os.environ.get("sahib") f'https://t.me/Anon1mXSs
 #
 
