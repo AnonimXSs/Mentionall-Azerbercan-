@@ -45,9 +45,9 @@ async def start(event):
                       [
                        Button.inline("🎛 əmrlər", data="komutlar")
                       ],
-                      [Button.url('🌱 Məni qrupa əlavə et', f'https://t.me/YarasaTaggerbot?startgroup=a')],
+                      [Button.url('🌱 Məni qrupa əlavə et', f'https://t.me/EdgarTaggerBot?startgroup=a')],
                       [Button.url('📣 Support', f'https://t.me/BotssSupport'),
-                       Button.url('👨‍💻 Sahib', f'https://t.me/XTQ_BAKAVOY')]
+                       Button.url('👨‍💻 Sahib', f'https://t.me/S1yahimsin')]
                     ),
                     link_preview=False)
 
@@ -64,9 +64,9 @@ async def handler(event):
                       [
                        Button.inline("🎛 əmrlər", data="komutlar")
                       ],
-                      [Button.url('🌱 Məni qrupa əlavə et', f'https://t.me/YarasaTaggerbot?startgroup=a')],
+                      [Button.url('🌱 Məni qrupa əlavə et', f'https://t.me/EdgarTaggerBot?startgroup=a')],
                       [Button.url('📣 Support', f'https://t.me/BotssSupport'),
-                       Button.url('👨‍💻 Sahib', f'https://t.me/XTQ_BAKAVOY')]
+                       Button.url('👨‍💻 Sahib', f'https://t.me/S1yahimsin')]
                     ),
                     link_preview=False)
 
